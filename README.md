@@ -2,7 +2,7 @@
 #### [Personal Website](https://www.haydenhoopes.com) | [LinkedIn](https://www.linkedin.com/in/haydenhoopes/) | [GitHub](https://github.com/haydenhoopes) | [Kaggle](https://www.kaggle.com/haydenhoopes) | [Google Scholar](https://scholar.google.com/citations?user=NfAtldIAAAAJ&hl=en&oi=ao)
 
 ### Qualifications
-###### Bachelor's of Science in Management of Information Systems, Utah State University (2021)
+##### Bachelor's of Science in Management of Information Systems, Utah State University (2021)
 ###### Bachelor's of Arts in Spanish, Utah State University (2021)
 ###### Master's of Data Science, Utah State University (2024)
 ###### Microsoft Excel Expert Certification (2021)
