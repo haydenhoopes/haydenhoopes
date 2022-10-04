@@ -11,6 +11,8 @@
 ### About Me
 I grew up near Boise, Idaho and didn't know anything about computers until taking my first computer science class at Utah State University in 2019. Since then, I've discovered the wide and infinite world of computer science and have become especially interested in cloud computing with Amazon Web Services. Since learning my first programming language (Python), I've also become experienced with JavaScript, R, PHP, Linux, LaTeX, and HTML/CSS.
 
+<p style="background-color":"red">asdf</p?
+
 <!--
 **haydenhoopes/haydenhoopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
